@@ -1,0 +1,7 @@
+20
+00:50:45,200 --> 00:55:25,000
+Subtitle line number one.
+
+24
+01:10:55,400 --> 01:10:25,500
+Subtitle line number two.
