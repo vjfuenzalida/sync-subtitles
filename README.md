@@ -1,4 +1,6 @@
-Insufficient arguments. The accepted flags are:
+# Instructions:
+
+Run the script in the console, and use the following flags to specify the input and output files and the needed time delta (in hours, minutes and/or seconds).
 
 	--i	[input filename]
 	--o	[output filename]
